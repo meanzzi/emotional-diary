@@ -1,0 +1,19 @@
+.btn {
+  background-color: #ffeaf4;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  white-space: nowrap; /* 화면 줄어들더라도 줄바꿈 X */
+}
+
+.btn_POSITIVE {
+  background-color: #ffa9db;
+  color: #ffffff;
+}
+
+.btn_NEGATIVE {
+  background-color: #fc5cb9de;
+  color: #ffffff;
+}

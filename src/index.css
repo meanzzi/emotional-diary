@@ -6,6 +6,24 @@
   font-style: normal;
 }
 
+html,
+body {
+  margin: 0px;
+  width: 100%;
+  background-color: #ffeaf4;
+}
+
+#root {
+  background-color: #ffffff;
+  max-width: 80%;
+  width: 100%;
+  margin: 0 auto;
+  min-height: 100vh; /* 현재 브라우저 스크린 사이즈 */
+  height: 100%;
+  box-shadow: #2424242f 0px 0px 29px 0px;
+  padding: 0px 20px;
+}
+
 body * {
   font-family: Ownglyph_ParkDaHyun;
 }
