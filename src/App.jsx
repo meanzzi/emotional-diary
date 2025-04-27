@@ -10,7 +10,7 @@ import Notfound from "./pages/Notfound";
 const mockData = [
   {
     id: 1,
-    createdDate: new Date("2025-04-23").getTime(),
+    createdDate: new Date("2025-04-01").getTime(),
     emotionId: 1,
     content: "1번 일기 내용",
   },
@@ -19,12 +19,6 @@ const mockData = [
     createdDate: new Date("2025-04-22").getTime(),
     emotionId: 2,
     content: "2번 일기 내용",
-  },
-  {
-    id: 3,
-    createdDate: new Date("2025-03-15").getTime(),
-    emotionId: 3,
-    content: "3번 일기 내용",
   },
 ];
 
